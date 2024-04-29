@@ -46,7 +46,6 @@ functionality using their functional tables.
 
 
 **PROGRAM**
-~~~
  Developed by:A.MANDHAKINI
  RegisterNumber:212223100030
 ![image](https://github.com/MandhakiniA/JKFLIPFLOP-USING-IF-ELSE/assets/150005194/9a26f7ba-6a04-4484-abd4-b0ed694dca79)
@@ -55,7 +54,6 @@ functionality using their functional tables.
 
 
 
-~~~
  
 
 
